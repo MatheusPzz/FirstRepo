@@ -12,6 +12,7 @@ public class If {
     public static void main(String[] args) {
 
         double accountBalance;
+        double whatever;
 
         Scanner kb = new Scanner(System.in);
 
